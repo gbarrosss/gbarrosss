@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gabriel
 
-📚 Estudante de Informática para Negócios (Fatec)
+📚 Estudante de Bacharelado em Tecnologia da Informação (UNIVESP)  
 
 
 Conhecimentos/Aprendendo: 
